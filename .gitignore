@@ -108,3 +108,4 @@ storybook-static
 
 # IDE
 .idea/
+package-lock.json
